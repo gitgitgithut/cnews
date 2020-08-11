@@ -1,0 +1,4 @@
+cnews.test.txt filter=lfs diff=lfs merge=lfs -text
+cnews.train.txt filter=lfs diff=lfs merge=lfs -text
+cnews.val.txt filter=lfs diff=lfs merge=lfs -text
+cnews.vocab.txt filter=lfs diff=lfs merge=lfs -text
